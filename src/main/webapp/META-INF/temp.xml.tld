@@ -1,0 +1,74 @@
+<info>
+    <entry doi="10.1177/2325160315616961" type="citation"
+           ctype="0010110100000000000100000000000000000000000000000000000000000000" atype="notice_editorial">
+        <permissions>
+            <copyright-statement>© 2016 by the American Association of Diabetes Educators</copyright-statement>
+            <copyright-year>2016</copyright-year>
+            <copyright-holder content-type="society">American Association of Diabetes Educators</copyright-holder>
+        </permissions>
+        <title-group>
+            <article-title>With Diabetes a Global Issue, We Are More Alike Than We Are Different</article-title>
+        </title-group>
+        <hasmultimedia>false</hasmultimedia>
+        <source>AADE in Practice</source>
+        <jcode>aipa</jcode>
+        <publisher>SAGE Publications</publisher>
+        <tocheading language="EN">
+            <subj-group subj-group-type="heading">
+                <subject>From the Editor</subject>
+            </subj-group>
+        </tocheading>
+        <title usage="DEFAULT" length="STANDARD" language="EN">With Diabetes a Global Issue, We Are More Alike Than We
+            Are Different
+        </title>
+        <title usage="DEFAULT" length="FULL" language="EN">With Diabetes a Global Issue, We Are More Alike Than We Are
+            Different
+        </title>
+        <namegroup type="article">
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <string-name contrib-type="author" xml:space="preserve" name-style="western" index="Pearson, Teresa"><given-names>Teresa</given-names> <surname>Pearson</surname></string-name><x xml:space="preserve">, </x>
+                    <degrees>MS, RN, CDE, FAADE</degrees>
+                </contrib>
+            </contrib-group>
+        </namegroup>
+        <coverdate>
+            <year>2016</year>
+            <month full="January" digits="01">Jan</month>
+            <day>1</day>
+        </coverdate>
+        <textdate>January 2016</textdate>
+        <epubdate>
+            <year>2015</year>
+            <month full="December" digits="12">Dec</month>
+            <day>18</day>
+        </epubdate>
+        <volume>4</volume>
+        <issue>1</issue>
+        <fpage>6</fpage>
+        <lpage>7</lpage>
+        <pdfsize>159802</pdfsize>
+        <publication>
+            <pub-title title-type="primary" title-length="standard" title-usage="default" translit-method="none"
+                       is-translated="false" media-type="text-xml" source="default" xml:lang="EN">With Diabetes a Global
+                Issue, We Are More Alike Than We Are Different
+            </pub-title>
+            <pub-title title-type="primary" title-length="standard" title-usage="default" translit-method="none"
+                       is-translated="false" media-type="text-xml" source="content" xml:lang="EN">With Diabetes a Global
+                Issue, We Are More Alike Than We Are Different
+            </pub-title>
+            <pub-title title-type="primary" title-length="full" title-usage="default" translit-method="none"
+                       is-translated="false" media-type="text-xml" source="content" xml:lang="EN">With Diabetes a Global
+                Issue, We Are More Alike Than We Are Different
+            </pub-title>
+            <pub-title title-type="toc-heading-title" title-length="standard" title-usage="default"
+                       translit-method="none" is-translated="false" media-type="text-xml" source="default"
+                       xml:lang="EN">From the Editor
+            </pub-title>
+            <pub-title title-type="toc-heading-title" title-length="standard" title-usage="default"
+                       translit-method="none" is-translated="false" media-type="text-xml" source="content"
+                       xml:lang="EN">From the Editor
+            </pub-title>
+        </publication>
+    </entry>
+</info>
